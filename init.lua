@@ -2,4 +2,3 @@
 require("config.lazy")
 
 
-vim.o.tabstop = 2 -- Number of spaces for a tab
